@@ -1,6 +1,6 @@
 
 export default function Home() {
   return (
-    <h1>Intentional changes made</h1>
+    <h1>Implement New Feature</h1>
   );
 }
